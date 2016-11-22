@@ -3,6 +3,7 @@
 ## v1.1
 
 * Add support for extra operators **, %, min, max
+* Print integer results as integers instead of floats
 
 ## v1.2
 
